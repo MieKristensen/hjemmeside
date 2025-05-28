@@ -8,6 +8,10 @@ layout: default
   <div class="topbar-left">
     <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo2" class="logo2">
   </div>
+  <div class="topbar-center">
+    <span class="topbar-title">SusTerra</span>
+  </div>
+
   <div class="topbar-right">
     <a href="#bag" class="topbar-link">Om os</a>
     <a href="#kurser" class="topbar-link">Kurser</a>

@@ -11,39 +11,25 @@ layout: default
 </div>
 # Data. Retning. Forankring 🌿
 Susterra er sammensat af “sustainability” og “terra” – latin for jord. Navnet afspejler vores tilgang: Vi arbejder med bæredygtighed med jordforbindelse – konkret, forankret og tilpasset virkeligheden i små og mellemstore virksomheder.
-Hos Susterra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
+Hos SusTerra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
 Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 
 
-## BrygMedMie
+## <a id="bag"></a>Hvem står bag Susterra?
 
-Øl er ikke bare øl, så hvordan får man lavet den øl, man bedst kan lide? Hvordan kan man tage en opskrift og blot ændre lidt for at få en helt anden smag?
+Jeg hedder Mie Kristensen og driver SusTerra med ønsket om at gøre bæredygtighed til noget, man kan arbejde med – ikke bare tale om.
+Min baggrund kombinerer naturvidenskabelig faglighed, undervisningserfaring og praksisnær rådgivning. Jeg har solid erfaring med at hjælpe små og mellemstore virksomheder med at forstå og bruge deres CO₂-data, udvikle cirkulære løsninger, forankre ESG-strukturer og skabe strategier, der både er realistiske og ambitiøse.
+Jeg arbejder med virksomheder, der gerne vil i gang – eller videre – uden at miste jordforbindelsen. Det betyder, at jeg altid tilpasser løsninger til virksomhedens ressourcer, branche og kultur. Jeg faciliterer, oversætter og skubber på, indtil arbejdet med bæredygtighed bliver en integreret del af jeres hverdag.
+Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre – og tage ejerskab over den bæredygtige udvikling i jeres forretning.
 
-**BrygMedMie** afholder ølbrygningsworkshops som hyggeaften i små og store virksomheder, foreninger, klubber og andre forsamlinger… Sådan et kursus vil være mere praktisk arbejde end teoretisk foredrag, men I vil komme hjem med viden om hvordan man let kan brygge sin egen øl, hvordan man kan ændre og justere smag og lidt indsigt i kemien bag bryggeprocessen. I bliver desuden introduceret til, hvordan og hvorfor man kan lave etiketter.
+---
 
-Mie har en passion for ølbrygning og mange års erfaring som hobbybrygger, men er også et legebarn der gerne eksperimenterer med ingredienserne. Mie underviser i kemi og fysik på Silkeborg Gymnasium.
+## <a id="kurser"></a>Kurser
 
-![Ølbrygningsprocessen](/assets/the-brewing-process.png)
+Beskrivelse af kursustilbud…
 
-### Pris eksemper
+---
 
-### Workshop (ca. 5 timer) 12-24 personer:
+## <a id="blank"></a>Blank
 
-Kurserne vil som udgangspunkt blive afholdt i virksomhedens/foreningens lokaler, men vi kan også hjælpe med at finde lokaler.
-
-- Lidt teori om smag, duft og kemien bag
-- Lidt teori om ølbrygningen; ingredienser, processer og praktisk viden.
-- Ølbrygning i grupper a max 4 personer. I processen vil der være fokus på at koble trin i ølbrygningen med smagen af produktet, man står med 
-- Ølsmagning
-- Fif til at lave etiketter.
-- Hygge, teamwork og socialt samvær
-
-4 bryg á ca. 25 L, 16 personer fra 650 kr ex. moms pr. person
-
-Workshoppen kan kombineres med et foredrag fra BeerByMike
-
-### Bryg med dine venner
-
-Kom og bryg med dine venner. Både for nybegyndere og dem, der gerne vil have gode råd til at komme videre i deres hobby. Det er også muligt at lave fadøl til den næste fest. Kurserne forgår som udgangspunkt i BrygMedMies lokaler i Silkeborg
-
-Begynderkursus 3 personer fra 750 kr pr 
+Denne sektion er tom for nu…

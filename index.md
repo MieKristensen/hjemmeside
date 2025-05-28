@@ -7,15 +7,15 @@ layout: default
 <div style="text-align: center; margin-bottom: 2rem;">
   <a href="#bag" class="btn">Hvem står bag Susterra?</a>
   <a href="#kurser" class="btn">Kurser</a>
-  <a href="#blank" class="btn">Blank</a>
+  <a href="#Referencer" class="btn">Referencer</a>
 </div>
-# Data. Retning. Forankring 🌿
+## Data. Retning. Forankring 🌿
 
 Susterra er sammensat af “sustainability” og “terra” – latin for jord. Navnet afspejler vores tilgang: Vi arbejder med bæredygtighed med jordforbindelse – konkret, forankret og tilpasset virkeligheden i små og mellemstore virksomheder.
 
 Hos SusTerra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
 
-###Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
+#Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 ---
 ## <a id="bag"></a>Hvem står bag Susterra?
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
@@ -79,9 +79,9 @@ At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i sta
 📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
 Mulighed for tilkøb af opfølgende sparring
 
-## <a id="blank"></a>Blank
+## <a id="Referencer"></a>Referencer
 
-Denne sektion er tom for nu…
+###
 
 <div id="kontaktlinje">
   &nbsp; ✉️ Mie@SusTerra.dk | &nbsp; SusTerra er en del af WelcomeSecurity | &nbsp; CVR DK36622652

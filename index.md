@@ -30,8 +30,8 @@ Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre 
   <a href="#kurser" class="btn">ESG i SMV’er</a>
   <a href="#blank" class="btn">Blank</a>
 </div>
-<a id="Fra data til handling"></a>Fra data til handling
-Fra data til handling – sådan bruger I jeres CO₂-regnskab
+
+##<a id="Fra data til handling"></a>Fra data til handling – sådan bruger I jeres CO₂-regnskab
 🎯 Formål
 At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtigst – bruge klimaregnskabet som et styringsværktøj i virksomheden.
 👥 Målgruppe

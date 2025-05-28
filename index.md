@@ -15,7 +15,6 @@
     </div>
   </div>
   <div class="header-text">
-    <div class="project-name">SusTerra</div>
     <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
   </div>
 </div>

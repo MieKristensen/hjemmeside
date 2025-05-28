@@ -21,15 +21,12 @@ layout: default
   </div>
   <div class="topbar-right">
     <a href="#bag" class="topbar-link">Om os</a>
-    <a href="#kurser" class="topbar-link">Kurser</a>
-    <a href="#kontakt" class="topbar-link">Kontakt</a>
+   <a href="#kurser" class="btn">Kurser</a>
+  <a href="#Referencer" class="btn">Referencer</a>
   </div>
 </div>
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <a href="#bag" class="btn">Hvem står bag Susterra?</a>
-  <a href="#kurser" class="btn">Kurser</a>
-  <a href="#Referencer" class="btn">Referencer</a>
+
 </div>
 ## Data. Retning. Forankring 🌿
 
@@ -39,7 +36,7 @@ Hos SusTerra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi
 
 #Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 ---
-## <a id="bag"></a>Hvem står bag Susterra?
+## <a id="bag"></a>Om os?
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <img src="/hjemmeside/assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 

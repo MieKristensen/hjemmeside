@@ -11,33 +11,6 @@ a:hover {
   color: #1b5e20 !important;
   text-decoration: underline;
 }
-
-.site-footer {
-  background-color: #c8e6c9 !important;
-  color: #1b3d1b !important;
-  border-top: 2px solid #a5d6a7;
-}
-
-.page-header {
-  background: linear-gradient(to bottom, #f1f8e9, #81c784, #2e7d32) !important;
-  color: white !important;
-  border-bottom: 4px solid #1b5e20;
-  text-align: center;
-  padding: 2rem 1rem;
-}
-
-/* Projekt-navn og tagline */
-.project-name {
-  color: #ffffff !important;
-  font-size: 2.5rem;
-  font-weight: bold;
-}
-
-.project-tagline {
-  color: #ffffff !important;  /* Lys grøn tekst til undertitlen */
-  font-size: 1.2rem;
-}
-
 .topbar {
   position: fixed;
   top: 0;
@@ -76,6 +49,33 @@ a:hover {
 body {
   padding-top: 70px; /* Giver plads over indholdet */
 }
+.site-footer {
+  background-color: #c8e6c9 !important;
+  color: #1b3d1b !important;
+  border-top: 2px solid #a5d6a7;
+}
+
+.page-header {
+  background: linear-gradient(to bottom, #f1f8e9, #81c784, #2e7d32) !important;
+  color: white !important;
+  border-bottom: 4px solid #1b5e20;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+/* Projekt-navn og tagline */
+.project-name {
+  color: #ffffff !important;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.project-tagline {
+  color: #ffffff !important;  /* Lys grøn tekst til undertitlen */
+  font-size: 1.2rem;
+}
+
+
 #kontaktlinje {
   position: fixed;
   bottom: 0;

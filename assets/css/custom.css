@@ -23,3 +23,23 @@ a:hover {
   color: #1b3d1b !important;
   border-top: 2px solid #a5d6a7;
 }
+/* Øverste banner (page-header) */
+.page-header {
+  background-color: #2e7d32 !important; /* Mørkegrøn baggrund */
+  color: #ffffff !important;           /* Hvid tekst */
+  border-bottom: 4px solid #1b5e20;    /* En endnu mørkere grøn kant */
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+/* Projekt-navn og tagline */
+.project-name {
+  color: #ffffff !important;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.project-tagline {
+  color: #c8e6c9 !important;  /* Lys grøn tekst til undertitlen */
+  font-size: 1.2rem;
+}

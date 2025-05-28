@@ -20,8 +20,6 @@ layout: default
 </div>
 
 
-
-</div>
 ## Data. Retning. Forankring 🌿
 
 Susterra er sammensat af “sustainability” og “terra” – latin for jord. Navnet afspejler vores tilgang: Vi arbejder med bæredygtighed med jordforbindelse – konkret, forankret og tilpasset virkeligheden i små og mellemstore virksomheder.

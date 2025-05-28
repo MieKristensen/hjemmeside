@@ -82,5 +82,5 @@ Mulighed for tilkøb af opfølgende sparring
 Denne sektion er tom for nu…
 
 <div id="kontaktlinje">
-  📞 12 34 56 78 &nbsp; | &nbsp; ✉️ mie@susterra.dk &nbsp; | &nbsp; 🌐 www.susterra.dk
+  &nbsp; ✉️ Mie@SusTerra.dk | &nbsp; SusTerra er en del af WelcomeSecurity | &nbsp; CVR DK36622652
 </div>

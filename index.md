@@ -9,7 +9,11 @@ Susterra er sammensat af “sustainability” og “terra” – latin for jord.
 Hos Susterra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
 Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 
-
+<div style="text-align: center; margin-bottom: 2rem;">
+  <a href="#bag" class="btn">Hvem står bag Susterra?</a>
+  <a href="#kurser" class="btn">Kurser</a>
+  <a href="#blank" class="btn">Blank</a>
+</div>
 ## BrygMedMie
 
 Øl er ikke bare øl, så hvordan får man lavet den øl, man bedst kan lide? Hvordan kan man tage en opskrift og blot ændre lidt for at få en helt anden smag?

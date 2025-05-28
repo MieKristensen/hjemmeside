@@ -25,7 +25,7 @@ a:hover {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-.topbar-left .logo {
+.topbar-left .logo2 {
   height: 40px;
   border-radius: 4px;
 }
@@ -47,7 +47,7 @@ a:hover {
 }
 
 body {
-  padding-top: 70px; /* Giver plads over indholdet */
+  padding-top: 0px; /* Giver plads over indholdet */
 }
 .site-footer {
   background-color: #c8e6c9 !important;

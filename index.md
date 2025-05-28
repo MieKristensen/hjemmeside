@@ -6,7 +6,7 @@ layout: default
 
 <div class="topbar">
   <div class="topbar-left">
-    <img src="/hjemmeside/assets/logo.jpg" alt="SusTerra logo" class="logo">
+    <img src="/hjemmeside/assets/logo.jpg" alt="SusTerra logo2" class="logo">
   </div>
   <div class="topbar-right">
     <a href="#bag" class="topbar-link">Om os</a>

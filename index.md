@@ -4,9 +4,11 @@ layout: default
 
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Min grønne hjemmeside 🌿
-Velkommen til noget grønt og bæredygtigt!
-Har du en drøm om at lære at brygge øl? Jeg udbyder ølbrygning som socialt arrangement i virksomheder, foreninger, … 
+# Data. Retning. Forankring 🌿
+Susterra er sammensat af “sustainability” og “terra” – latin for jord. Navnet afspejler vores tilgang: Vi arbejder med bæredygtighed med jordforbindelse – konkret, forankret og tilpasset virkeligheden i små og mellemstore virksomheder.
+Hos Susterra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
+Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
+
 
 ## BrygMedMie
 

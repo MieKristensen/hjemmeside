@@ -3,15 +3,7 @@ body {
   background-color: #f7fff7 !important;
   color: #1b3d1b !important;
   padding-top: 230px; /* Giver plads til samlet header */
-}
-
-a {
-  color: #2e8b57 !important;
-}
-
-a:hover {
-  color: #1b5e20 !important;
-  text-decoration: underline;
+  margin: 0;
 }
 
 /* Samlet fast header */

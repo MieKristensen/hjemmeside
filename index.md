@@ -1,3 +1,11 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+# Min grønne hjemmeside 🌿
+Velkommen til noget grønt og bæredygtigt!
 Har du en drøm om at lære at brygge øl? Jeg udbyder ølbrygning som socialt arrangement i virksomheder, foreninger, … 
 
 ## BrygMedMie

@@ -47,7 +47,7 @@ a:hover {
 }
 
 body {
-  padding-top: 1px; /* Giver plads over indholdet */
+  padding-top: 70px; /* Giver plads over indholdet */
 }
 .site-footer {
   background-color: #c8e6c9 !important;

@@ -1,16 +1,25 @@
-/* Eksempel: ændr baggrundsfarve og tekstfarve */
 body {
-  background-color: #168655 !important;
-  color: #222 !important;
+  background-color: #f7fff7 !important;
+  color: #1b3d1b !important;
 }
 
-/* Topbanner (navbar) */
 .page-header {
-  background-color: #007ACC !important;
+  background-color: #2e8b57 !important;
   color: white !important;
+  border-bottom: 4px solid #1b5e20;
 }
 
-/* Links */
 a {
-  color: #0066cc !important;
+  color: #2e8b57 !important;
+}
+
+a:hover {
+  color: #1b5e20 !important;
+  text-decoration: underline;
+}
+
+.site-footer {
+  background-color: #c8e6c9 !important;
+  color: #1b3d1b !important;
+  border-top: 2px solid #a5d6a7;
 }

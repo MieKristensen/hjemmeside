@@ -1,0 +1,16 @@
+/* Eksempel: ændr baggrundsfarve og tekstfarve */
+body {
+  background-color: #168655 !important;
+  color: #222 !important;
+}
+
+/* Topbanner (navbar) */
+.page-header {
+  background-color: #007ACC !important;
+  color: white !important;
+}
+
+/* Links */
+a {
+  color: #0066cc !important;
+}

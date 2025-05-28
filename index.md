@@ -53,11 +53,11 @@ At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtig
 
 🧠 Læringsmål
 
--Forstå forskellen på Scope 1, 2 og 3
--Bruge Klimakompasset og/eller eget regneark som værktøj
--Identificere og strukturere relevante data
--Udlede konkrete reduktionsmuligheder og prioritere dem
--Kommunikere CO₂-resultater internt og eksternt
+- Forstå forskellen på Scope 1, 2 og 3
+- Bruge Klimakompasset og/eller eget regneark som værktøj
+- Identificere og strukturere relevante data
+- Udlede konkrete reduktionsmuligheder og prioritere dem
+- Kommunikere CO₂-resultater internt og eksternt
 
 
 📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
@@ -74,13 +74,12 @@ At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i sta
 👥 Målgruppe:	Virksomheder der skal i gang med eller styrke ESG-arbejdet
 
 🧠 Læringsmål
--Forstå ESG-rammens struktur og indhold
--Betydningen af E, S og G
--Identificere væsentlige ESG-emner for virksomheden
--Opbygge datagrundlag og KPI’er
--Lave plan for forankring i organisationen
-
-
+- Forstå ESG-rammens struktur og indhold
+- Betydningen af E, S og G
+- Identificere væsentlige ESG-emner for virksomheden
+- Opbygge datagrundlag og KPI’er
+- Lave plan for forankring i organisationen
+ 
 📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
 Mulighed for tilkøb af opfølgende sparring
 

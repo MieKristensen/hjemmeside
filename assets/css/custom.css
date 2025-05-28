@@ -27,7 +27,7 @@ a:hover {
 
 .topbar-left .logo2 {
   height: 60px;
-  width: auto;
+  border-radius: 4px;
 }
 
 .topbar-right {

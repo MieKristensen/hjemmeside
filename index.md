@@ -15,6 +15,17 @@ layout: default
   </div>
 </div>
 
+<div class="topbar">
+  <div class="topbar-left">
+    <img src="/hjemmeside/assets/logo.jpg" alt="SusTerra logo" class="logo">
+  </div>
+  <div class="topbar-right">
+    <a href="#bag" class="topbar-link">Om os</a>
+    <a href="#kurser" class="topbar-link">Kurser</a>
+    <a href="#kontakt" class="topbar-link">Kontakt</a>
+  </div>
+</div>
+
 <div style="text-align: center; margin-bottom: 2rem;">
   <a href="#bag" class="btn">Hvem står bag Susterra?</a>
   <a href="#kurser" class="btn">Kurser</a>

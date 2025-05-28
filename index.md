@@ -38,22 +38,21 @@ At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtig
 👥 Målgruppe
 •	SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning
 
-###🧠 Læringsmål
+🧠 Læringsmål
 Deltagerne vil efter kurset kunne:
 
-•	Forstå forskellen på Scope 1, 2 og 3
-•	Bruge Klimakompasset og/eller eget regneark som værktøj
-•	Identificere og strukturere relevante data
-•	Udlede konkrete reduktionsmuligheder og prioritere dem
-•	Kommunikere CO₂-resultater internt og eksternt
-•	Forankre regnskabet i beslutninger og ledelse
+-Forstå forskellen på Scope 1, 2 og 3
+-Bruge Klimakompasset og/eller eget regneark som værktøj
+-Identificere og strukturere relevante data
+-Udlede konkrete reduktionsmuligheder og prioritere dem
+-Kommunikere CO₂-resultater internt og eksternt
 
 
 📅 Varighed
 
 
 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
-Mulighed for opfølgende sparring (tilkøb)
+Mulighed for tilkøb af opfølgende sparring
 
 ---
 ## <a id="ESG i SMV’er"></a>ESG i SMV’er – overblik, indsigt og handling
@@ -61,18 +60,24 @@ Mulighed for opfølgende sparring (tilkøb)
 ESG i SMV’er – overblik, indsigt og handling
 Formål
 At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i stand til at arbejde struktureret med væsentlighed, KPI’er og organisering.
+
+
 👥 Målgruppe
-•	Ledere og bæredygtighedsansvarlige i SMV’er
 •	Virksomheder der skal i gang med eller styrke ESG-arbejdet
-•	Relevante for både første gang og ved videreudvikling
+
 🧠 Læringsmål
-•	Forstå ESG-rammens struktur og indhold
-•	Betydningen af E, S og G
-•	Identificere væsentlige ESG-emner for virksomheden
-•	Opbygge datagrundlag og KPI’er
-•	Lave plan for forankring i organisationen
+-Forstå ESG-rammens struktur og indhold
+-Betydningen af E, S og G
+-Identificere væsentlige ESG-emner for virksomheden
+-Opbygge datagrundlag og KPI’er
+-Lave plan for forankring i organisationen
+
+
 📅 Varighed
-2 halve dage (med mulighed for individuel sparring efterfølgende)
+
+
+1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
+Mulighed for tilkøb af opfølgende sparring
 
 
 ## <a id="blank"></a>Blank

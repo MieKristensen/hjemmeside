@@ -23,7 +23,7 @@ Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre 
 
 ## <a id="bag"></a>
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
-  <img src="/hjemmeside/assets/images/mie.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="/hjemmeside/assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
   <div style="flex: 1; min-width: 250px;">
     <h2>Hvem står bag Susterra?</h2>

@@ -20,7 +20,7 @@ layout: default
 <p>Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
   </div>
 </div>
-
+---
 ## <a id="bag"></a>Hvem står bag Susterra?
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <img src="/hjemmeside/assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">

@@ -80,3 +80,7 @@ Mulighed for tilkøb af opfølgende sparring
 ## <a id="blank"></a>Blank
 
 Denne sektion er tom for nu…
+
+<div id="kontaktlinje">
+  📞 12 34 56 78 &nbsp; | &nbsp; ✉️ mie@susterra.dk &nbsp; | &nbsp; 🌐 www.susterra.dk
+</div>

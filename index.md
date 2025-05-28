@@ -27,7 +27,7 @@ Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre 
 ## <a id="kurser"></a>Kurser
 <div style="text-align: center; margin-bottom: 2rem;">
   <a href="#bag" class="btn">Fra data til handling</a>
-  <a href="#kurser" class="btn">Kurser</a>
+  <a href="#kurser" class="btn">ESG i SMV’er</a>
   <a href="#blank" class="btn">Blank</a>
 </div>
 <a id="Fra data til handling"></a>Fra data til handling
@@ -49,6 +49,23 @@ Deltagerne vil efter kurset kunne:
 Mulighed for opfølgende sparring eller coaching (tilkøb)
 
 ---
+<a id="ESG i SMV’er"></a>ESG i SMV’er
+ESG i SMV’er – overblik, indsigt og handling
+Formål
+At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i stand til at arbejde struktureret med væsentlighed, KPI’er og organisering.
+👥 Målgruppe
+•	Ledere og bæredygtighedsansvarlige i SMV’er
+•	Virksomheder der skal i gang med eller styrke ESG-arbejdet
+•	Relevante for både første gang og ved videreudvikling
+🧠 Læringsmål
+•	Forstå ESG-rammens struktur og indhold
+•	Betydningen af E, S og G
+•	Identificere væsentlige ESG-emner for virksomheden
+•	Opbygge datagrundlag og KPI’er
+•	Lave plan for forankring i organisationen
+📅 Varighed
+2 halve dage (med mulighed for individuel sparring efterfølgende)
+
 
 ## <a id="blank"></a>Blank
 

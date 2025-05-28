@@ -34,19 +34,26 @@ Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre 
 ## <a id="Fra data til handling"></a>Fra data til handling – sådan bruger I jeres CO₂-regnskab
 🎯 Formål
 At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtigst – bruge klimaregnskabet som et styringsværktøj i virksomheden.
+
 👥 Målgruppe
 •	SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning
-🧠 Læringsmål
+
+###🧠 Læringsmål
 Deltagerne vil efter kurset kunne:
+
 •	Forstå forskellen på Scope 1, 2 og 3
 •	Bruge Klimakompasset og/eller eget regneark som værktøj
 •	Identificere og strukturere relevante data
 •	Udlede konkrete reduktionsmuligheder og prioritere dem
 •	Kommunikere CO₂-resultater internt og eksternt
 •	Forankre regnskabet i beslutninger og ledelse
+
+
 📅 Varighed
+
+
 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
-Mulighed for opfølgende sparring eller coaching (tilkøb)
+Mulighed for opfølgende sparring (tilkøb)
 
 ---
 ## <a id="ESG i SMV’er"></a>ESG i SMV’er – overblik, indsigt og handling

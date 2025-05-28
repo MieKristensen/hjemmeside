@@ -3,12 +3,6 @@ body {
   color: #1b3d1b !important;
 }
 
-.page-header {
-  background-color: #2e8b57 !important;
-  color: white !important;
-  border-bottom: 4px solid #1b5e20;
-}
-
 a {
   color: #2e8b57 !important;
 }
@@ -23,7 +17,7 @@ a:hover {
   color: #1b3d1b !important;
   border-top: 2px solid #a5d6a7;
 }
-/* Øverste banner (page-header) */
+
 .page-header {
   background: linear-gradient(to bottom, #f1f8e9, #81c784, #2e7d32) !important;
   color: white !important;

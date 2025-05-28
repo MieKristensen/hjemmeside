@@ -1,6 +1,8 @@
+/* Global baggrund og tekst */
 body {
   background-color: #f7fff7 !important;
   color: #1b3d1b !important;
+  padding-top: 230px; /* Giver plads til samlet header */
 }
 
 a {
@@ -11,38 +13,46 @@ a:hover {
   color: #1b5e20 !important;
   text-decoration: underline;
 }
-.topbar {
+
+/* Samlet fast header */
+.full-header {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #2e7d32;
+  background: linear-gradient(to bottom, #2e7d32, #81c784, #f1f8e9);
+  color: white;
+  z-index: 999;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Øverste række: logo + titel + links */
+.topbar-row {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem 1rem;
-  z-index: 1000;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .topbar-left img {
   max-height: 60px;
   width: auto;
 }
-.topbar-center,
-.topbar-right {
+
+.topbar-center {
   flex: 1;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
-.topbar-left {
-  justify-content: flex-start;
+.topbar-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  font-family: sans-serif;
 }
 
 .topbar-right {
-  justify-content: flex-end;
+  display: flex;
   gap: 1rem;
 }
 
@@ -56,43 +66,33 @@ a:hover {
   text-decoration: underline;
 }
 
-.topbar-title {
-  color: white;
-  font-size: 1.5rem;
-  font-weight: bold;
-  font-family: sans-serif;
+/* Nederste række: navn og beskrivelse */
+.header-text {
+  text-align: center;
+  padding: 1rem;
 }
 
-body {
-  padding-top: 70px; /* Giver plads til topbaren */
+.project-name {
+  color: #ffffff !important;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0.5rem 0;
 }
+
+.project-tagline {
+  color: #ffffff !important;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
 .site-footer {
   background-color: #c8e6c9 !important;
   color: #1b3d1b !important;
   border-top: 2px solid #a5d6a7;
 }
 
-.page-header {
-  background: linear-gradient(to bottom, #2e7d32, #81c784, #f1f8e9) !important;
-  color: white !important;
-  border-bottom: 4px solid #1b5e20;
-  text-align: center;
-  padding: 2rem 1rem;
-}
-
-/* Projekt-navn og tagline */
-.project-name {
-  color: #ffffff !important;
-  font-size: 2.5rem;
-  font-weight: bold;
-}
-
-.project-tagline {
-  color: #ffffff !important;  /* Lys grøn tekst til undertitlen */
-  font-size: 1.2rem;
-}
-
-
+/* Fast kontaktlinje */
 #kontaktlinje {
   position: fixed;
   bottom: 0;

@@ -25,9 +25,9 @@ a:hover {
 }
 /* Øverste banner (page-header) */
 .page-header {
-  background-color: #2e7d32 !important; /* Mørkegrøn baggrund */
-  color: #ffffff !important;           /* Hvid tekst */
-  border-bottom: 4px solid #1b5e20;    /* En endnu mørkere grøn kant */
+  background: linear-gradient(to bottom, #e8f5e9, #2e7d32) !important;
+  color: white !important;
+  border-bottom: 4px solid #1b5e20;
   text-align: center;
   padding: 2rem 1rem;
 }

@@ -15,12 +15,12 @@ Hos SusTerra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi
 Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 
 
-## <a id="bag"></a>
+## <a id="bag"></a>Hvem står bag Susterra?
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
   <img src="/hjemmeside/assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
   <div style="flex: 1; min-width: 250px;">
-    <h2>Hvem står bag Susterra?</h2>
+ 
     <p>Jeg hedder Mie Kristensen og driver SusTerra med ønsket om at gøre bæredygtighed til noget, man kan arbejde med – ikke bare tale om.</p>
 
     <p>Min baggrund kombinerer naturvidenskabelig faglighed, undervisningserfaring og praksisnær rådgivning. Jeg hjælper små og mellemstore virksomheder med at forstå og bruge deres CO₂-data, udvikle cirkulære løsninger, forankre ESG-strukturer og skabe strategier, der både er realistiske og ambitiøse.</p>

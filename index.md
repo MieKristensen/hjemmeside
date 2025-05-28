@@ -6,7 +6,7 @@ layout: default
 
 <div class="topbar">
   <div class="topbar-left">
-    <img src="/hjemmeside/assets/logo.jpg" alt="SusTerra logo2" class="logo">
+    <img src="/hjemmeside/assets/logo.jpg" alt="SusTerra logo2" class="logo2">
   </div>
   <div class="topbar-right">
     <a href="#bag" class="topbar-link">Om os</a>
@@ -15,16 +15,6 @@ layout: default
   </div>
 </div>
 
-<div class="topbar">
-  <div class="topbar-left">
-    <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo" class="logo">
-  </div>
-  <div class="topbar-right">
-    <a href="#bag" class="topbar-link">Om os</a>
-   <a href="#kurser" class="btn">Kurser</a>
-  <a href="#Referencer" class="btn">Referencer</a>
-  </div>
-</div>
 
 
 </div>

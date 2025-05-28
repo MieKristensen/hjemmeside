@@ -49,6 +49,7 @@ Deltagerne vil efter kurset kunne:
 Mulighed for opfølgende sparring eller coaching (tilkøb)
 
 ---
+## <a id="ESG i SMV’er"></a>ESG i SMV’er – overblik, indsigt og handling
 <a id="ESG i SMV’er"></a>ESG i SMV’er
 ESG i SMV’er – overblik, indsigt og handling
 Formål

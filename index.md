@@ -32,14 +32,12 @@ Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre 
 </div>
 
 ## <a id="Fra data til handling"></a>Fra data til handling – sådan bruger I jeres CO₂-regnskab
-🎯 Formål
+🎯 Formål:
 At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtigst – bruge klimaregnskabet som et styringsværktøj i virksomheden.
 
-👥 Målgruppe
-•	SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning
+👥 Målgruppe:	SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning
 
 🧠 Læringsmål
-Deltagerne vil efter kurset kunne:
 
 -Forstå forskellen på Scope 1, 2 og 3
 -Bruge Klimakompasset og/eller eget regneark som værktøj
@@ -48,10 +46,7 @@ Deltagerne vil efter kurset kunne:
 -Kommunikere CO₂-resultater internt og eksternt
 
 
-📅 Varighed
-
-
-1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
+📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
 Mulighed for tilkøb af opfølgende sparring
 
 ---
@@ -62,8 +57,7 @@ Formål
 At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i stand til at arbejde struktureret med væsentlighed, KPI’er og organisering.
 
 
-👥 Målgruppe
-•	Virksomheder der skal i gang med eller styrke ESG-arbejdet
+👥 Målgruppe:	Virksomheder der skal i gang med eller styrke ESG-arbejdet
 
 🧠 Læringsmål
 -Forstå ESG-rammens struktur og indhold
@@ -73,12 +67,8 @@ At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i sta
 -Lave plan for forankring i organisationen
 
 
-📅 Varighed
-
-
-1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
+📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
 Mulighed for tilkøb af opfølgende sparring
-
 
 ## <a id="blank"></a>Blank
 

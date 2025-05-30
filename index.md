@@ -5,7 +5,10 @@ layout: default
 <link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
 
 <div class="topbar">
-  <div class="topbar-center">
+  <div class="topbar-left">
+   <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
+  </div>
+    <div class="topbar-center">
     <span class="topbar-title">SusTerra</span>
   </div>
   <div class="topbar-right">

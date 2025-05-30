@@ -1,3 +1,5 @@
+layout: default
+
 <link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
 
   <div class="topbar-row">

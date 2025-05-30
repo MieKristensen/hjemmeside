@@ -1,4 +1,6 @@
+---
 layout: default
+---
 
 <link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
 

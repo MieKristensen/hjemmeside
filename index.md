@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
+<link rel="stylesheet" href="./assets/css/custom.css">
 
 <div class="topbar">
   <div class="topbar-left">
-   <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
+   <img src="./assets/logo2.jpg" alt="SusTerra logo">
   </div>
     <div class="topbar-center">
     <span class="topbar-title">SusTerra</span>
@@ -18,12 +18,12 @@ layout: default
   </div>
 </div>
 
-<!-- HEADER -->
+<!-- 
 <div class="page-header">
   <div class="project-name">SusTerra</div>
   <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
 </div>
-  
+-->
 
 ## Data. Retning. Forankring 🌿
 
@@ -35,7 +35,7 @@ Hos SusTerra hjælper vi jer med at omsætte grønne ambitioner til handling. Vi
 ---
 ## <a id="bag"></a>Om os?
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
-  <img src="/hjemmeside/assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="./assets/portræt.jpg" alt="Mie Kristensen" style="width: 200px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 
   <div style="flex: 1; min-width: 250px;">
  

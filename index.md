@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
 
-<div class="full-header">
   <div class="topbar-row">
     <div class="topbar-left">
       <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
@@ -14,11 +13,11 @@
       <a href="#kontakt" class="topbar-link">Kontakt</a>
     </div>
   </div>
+
   <div class="header-text">
     <div class="project-name">SusTerra</div>
     <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
   </div>
-</div>
 
 ## Data. Retning. Forankring 🌿
 

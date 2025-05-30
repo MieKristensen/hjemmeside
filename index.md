@@ -6,7 +6,7 @@ layout: default
 
 <div class="topbar">
   <div class="topbar-left">
-    <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
+  /  <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
   </div>
   <div class="topbar-center">
     <span class="topbar-title">SusTerra</span>

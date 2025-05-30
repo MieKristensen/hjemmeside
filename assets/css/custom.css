@@ -66,13 +66,6 @@ body {
   border-top: 2px solid #a5d6a7;
 }
 
-.page-header {
-  background: linear-gradient(to bottom, #2e7d32, #81c784, #f1f8e9) !important;
-  color: white !important;
-  border-bottom: 4px solid #1b5e20;
-  text-align: center;
-  padding: 2rem 1rem;
-}
 
 /* Projekt-navn og tagline */
 .project-name {

@@ -4,23 +4,25 @@ layout: default
 
 <link rel="stylesheet" href="/hjemmeside/assets/css/custom.css">
 
-  <div class="topbar-row">
-    <div class="topbar-left">
-      <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
-    </div>
-    <div class="topbar-center">
-      <span class="topbar-title">SusTerra</span>
-    </div>
-    <div class="topbar-right">
-      <a href="#bag" class="topbar-link">Om os</a>
-      <a href="#kurser" class="topbar-link">Kurser</a>
-      <a href="#kontakt" class="topbar-link">Kontakt</a>
-    </div>
+<div class="topbar">
+  <div class="topbar-left">
+    <img src="/hjemmeside/assets/logo2.jpg" alt="SusTerra logo">
   </div>
-<div class="header-text">
-    <div class="project-name">SusTerra</div>
-    <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
+  <div class="topbar-center">
+    <span class="topbar-title">SusTerra</span>
   </div>
+  <div class="topbar-right">
+    <a href="#bag" class="topbar-link">Om os</a>
+    <a href="#kurser" class="topbar-link">Kurser</a>
+    <a href="#kontakt" class="topbar-link">Kontakt</a>
+  </div>
+</div>
+
+<!-- HEADER -->
+<div class="page-header">
+  <div class="project-name">SusTerra</div>
+  <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
+</div>
   
 
 ## Data. Retning. Forankring 🌿

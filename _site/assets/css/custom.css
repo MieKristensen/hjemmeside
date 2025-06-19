@@ -71,7 +71,7 @@ body {
   background: linear-gradient(to bottom,#2e7d32 0%, #388e3c 20%,#81c784 60%,#f1f8e9 100%);
   color: black !important;
   text-align: center;
-  padding: 0.5rem 0.5rem;
+  padding: 70px 0.5rem 0.5rem 0.5rem;  /* Top, right, bottom, left */
   z-index: 999;
   border-bottom: none /*1px solid #1b5e20;*/
   box-shadow: 0 0px 0px rgba(0,0,0,0);

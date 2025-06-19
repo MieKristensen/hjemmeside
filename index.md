@@ -14,9 +14,10 @@ layout: default
   </div>
   -->
   <div class="topbar-right">
+    <a href="#Hvad kan jeg hjælpe med" class="topbar-link">Hvad kan jeg hjælpe med?</a>
     <a href="#kurser" class="topbar-link">Workshops</a>
-    <a href="#referencer" class="topbar-link">Referencer</a>
-    <a href="#kontakt" class="topbar-link">Kontakt</a>
+    <a href="#Referencer" class="topbar-link">Referencer</a>
+    <a href="#Kontakt" class="topbar-link">Kontakt</a>
   </div>
 </div>
 
@@ -26,12 +27,13 @@ layout: default
   <div class="project-tagline">CO₂, ESG og cirkulær økonomi – i praksis</div>
 </div>
 -->
-### Data. Retning. Forankring 🌿
+## Mål det, der betyder noget – gør det, der virker 🌿
 
 Hos Sustira hjælper vi jer med at omsætte grønne ambitioner til handling. Vi arbejder med ESG, cirkulær økonomi og CO₂-beregninger – og bygger bro mellem data, strategi og mennesker. Det handler ikke kun om at måle og dokumentere – men om at skabe forandringer, der giver mening for både forretningen og planeten.
 
-For os handler bæredygtighed ikke om flotte ord, men om løsninger, der er rodfæstede i virkeligheden – og som bygger på viden, data og samarbejde..
+Vi tager afsæt i FN’s Verdensmål og bruger dem som pejlemærker for både handling og prioritering. Ikke som checklister – men som en måde at sikre, at jeres indsatser bidrager til noget større: klimaansvar, anstændige jobs, ansvarligt forbrug og partnerskaber for forandring.
 
+For os handler bæredygtighed ikke om flotte ord, men om løsninger, der er rodfæstede i virkeligheden – og som bygger på viden, data og samarbejde.
 Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det bedst sker, når løsningerne tager afsæt i virkeligheden. Derfor arbejder vi altid med jordforbindelse – både i tilgang, sprog og metode.
 ---
 ## <a id="bag"></a>
@@ -40,7 +42,8 @@ Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det
 
   <div style="flex: 1; min-width: 250px;">
  
-    <p>Jeg hedder Mie Kristensen og driver Sustira med ønsket om at gøre bæredygtighed til noget, man kan arbejde med – ikke bare tale om.</p>
+    <p>Jeg hedder Mie Kristensen og driver Sustira med ønsket om at gøre bæredygtighed til noget, man arbejder med – ikke bare taler om.</p>
+    <p>Sustira er sammensat af det latinske ord “sustinere” – at understøtte, bære og fastholde – og “era” - tidsalder. Jeg arbejder for, at vi bevæger os ind i en tidsalder, hvor der er fokus på at skabe en bæredygtig forretning.</p>
 
     <p>Min baggrund kombinerer naturvidenskabelig faglighed, undervisningserfaring og praksisnær rådgivning. Jeg hjælper små og mellemstore virksomheder med at forstå og bruge deres CO₂-data, udvikle cirkulære løsninger, forankre ESG-strukturer og skabe strategier, der både er realistiske og ambitiøse.</p>
 
@@ -48,74 +51,198 @@ Vi tror på, at bæredygtighed skal integreres i kerneforretningen – og at det
 
     <p>Mit mål er at løfte jeres viden og kompetencer, så I selv kan arbejde videre – og tage ejerskab over den bæredygtige udvikling i jeres forretning.</p>
 
-    Sustira er sammensat af det latinske ord “sustinere” – at understøtte, bære og fastholde – og “æra”, som signalerer en ny tid. Navnet afspejler vores tilgang: at skabe bæredygtige løsninger med retning, balance og forankring.
+    
   </div>
 </div>
----
-
-## <a id="kurser"></a> Workshops
-
-
-### <a id="Fra data til handling"></a>Fra data til handling – sådan bruger I jeres CO₂-regnskab
-🎯 Formål:
-At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtigst – bruge klimaregnskabet som et styringsværktøj i virksomheden.
-
-👥 Målgruppe:	SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning
-
-🧠 Læringsmål
-
-- Forstå forskellen på Scope 1, 2 og 3
-- Bruge Klimakompasset og/eller eget regneark som værktøj
-- Identificere og strukturere relevante data
-- Udlede konkrete reduktionsmuligheder og prioritere dem
-- Kommunikere CO₂-resultater internt og eksternt
-
-
-📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
-Mulighed for tilkøb af opfølgende sparring
-
----
-### <a id="ESG i SMV"></a>ESG i SMV – overblik, indsigt og handling
-🎯Formål:
-At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i stand til at arbejde struktureret med væsentlighed, KPI’er og organisering.
-
-
-👥 Målgruppe:	Virksomheder der skal i gang med eller styrke ESG-arbejdet
-
-🧠 Læringsmål
-- Forstå ESG-rammens struktur og indhold
-- Betydningen af E, S og G
-- Identificere væsentlige ESG-emner for virksomheden
-- Opbygge datagrundlag og KPI’er
-- Lave plan for forankring i organisationen
- 
-📅 Varighed: 1-dags workshop eller 2 halve dage (fx kl. 9–12 begge dage)
-Mulighed for tilkøb af opfølgende sparring
-
----
-### <a id="DM – hva’fornoget?"></a>DM hva'fornoget -Et praktisk kursus i dobbeltvæsentlighedsanalyse
-🎯 Formål:
-At give deltagerne kompetencer til at forstå og arbejde med dobbeltvæsentlighed i deres virksomhed – så det bliver et aktivt og værdiskabende værktøj, ikke bare rapportering. I lærer at bruge analysen som et redskab i både ESG-rapportering og strategisk udvikling – og får konkrete værktøjer, så I selv kan arbejde videre efter kurset.
-
-👥 Målgruppe
-- Ejere, direktører og nøglemedarbejdere i små og mellemstore virksomheder
-- Virksomheder, der møder krav om ESG-rapportering
-- Organisationer, der vil styrke deres strategiske overblik og dokumentation
-
-🧠 Læringsmål
-- Forstå, hvad dobbeltvæsentlighed betyder i praksis
-- Skelne mellem virksomhedens påvirkning og de finansielle risici og muligheder
-- Kortlægge og prioritere de ESG-temaer, der er relevante for netop deres virksomhed
-- Bruge analysen som grundlag for både rapportering og strategisk handling
-- Styrke samarbejdet og ejerskabet internt i organisationen
-
-📅 Varighed
-1 dag eller 2 halve dage
-Mulighed for tilkøb af opfølgende sparring eller coaching
 
 ---
 
-## <a id="Referencer"></a>Referencer
+## <a id="Hvad kan jeg hjælpe med" class="anchor-section"></a> Hvad kan jeg hjælpe med?
+Hos Sustinera hjælper jeg små og mellemstore virksomheder med at gøre bæredygtighed konkret, overskuelig og værdiskabende. Jeg rådgiver både virksomheder, der skal i gang med deres ESG-arbejde, og dem der har brug for sparring til at komme videre – med fokus på det, der giver mening i praksis.
+
+Mit udgangspunkt er altid virksomhedens behov, ressourcer og retning. Derfor tilbyder jeg rådgivning, der både er strategisk og lavpraktisk – med fokus på cirkulær økonomi, CO₂-beregninger, ESG og Verdensmålene.
+
+Jeg har altid med blik for, hvad der passer til den enkelte virksomhed. Det handler ikke om at presse jer ind i en standardmodel, men om at bygge videre på det, I allerede gør – og sikre, at bæredygtighed bliver integreret i jeres kerneforretning. 
+
+### Klimadata med mening – CO₂-kortlægning
+Jeg hjælper jer med at kortlægge virksomhedens CO₂-aftryk – både fordi det er nødvendigt, og fordi det skaber indsigt og handlekraft. Hvis I kan stille data til rådighed, kan jeg stå for selve klimaberegningen – med værktøjer som Klimakompasset eller automatisering via AI.
+
+Jeg hjælper jer med at indsamle og strukturere de nødvendige oplysninger (fx elforbrug, materialer, transport m.m.), og sikrer, at I får et brugbart overblik over scope 1, 2 og 3. Et klimaregnskab er ikke et mål i sig selv, men et fundament for at prioritere indsatser og dokumentere fremskridt.
+
+### Cirkulær økonomi – fra tanke til praksis
+
+Cirkulær økonomi er ikke bare affaldssortering og genbrug – det handler om at gentænke, hvordan I skaber og fastholder værdi. Jeg hjælper jer med at identificere cirkulære potentialer som fx take-back ordninger, leasing, servicebaserede forretningsmodeller, materialeskift og produktlevetid.
+
+Her arbejder vi tæt sammen: I kender jeres forretning, og jeg bidrager med struktureret analyse, idégenerering og metode. Gennem workshops og forløb inddrager jeg ledelse og medarbejdere, så løsningerne bliver både strategiske og operationelle.
+
+### ESG med jordforbindelse
+Jeg tilbyder sparring og rådgivning inden for ESG – både som ramme for strategisk bæredygtighed og som konkret arbejdsværktøj. Det handler ikke bare om at måle og rapportere – men om at skabe retning, ejerskab og troværdighed.
+
+Jeg hjælper jer med at komme i gang med ESG-struktur, væsentlighedsanalyse, værdikædekortlægning og governance. I får indsigt i, hvordan ESG spiller sammen med drift, kommunikation og strategi – og hvordan jeres organisation kan løfte opgaven i fællesskab.
+
+### Forankring og forandring – ikke bare fine ord
+Min tilgang er praksisnær og faciliterende. Jeg arbejder med workshops og involverende processer, der sikrer, at både ledelse og medarbejdere tager ejerskab. Jeg tror ikke på standardløsninger – jeg tror på fælles udvikling, jordnær kommunikation og respekt for virksomhedens udgangspunkt.
+
+Jeg oversætter komplekse krav til forståeligt sprog – og jeg hjælper jer med at gå fra gode intentioner til målbare resultater.
+
+---
+
+## <a id="kurser" class="anchor-section"></a> Workshops
+
+Hos Sustira tilbyder vi workshops, der hjælper virksomheder med at omsætte grønne ambitioner til konkret handling. Uanset om I er i gang med jeres første CO₂-regnskab, vil forankre ESG i organisationen eller arbejde strategisk med Verdensmålene, får I viden, værktøjer og inspiration, der virker i virkeligheden.
+
+Alle workshops tager udgangspunkt i jeres virkelighed og lægger vægt på involvering, refleksion og ejerskab på tværs af organisationen.
+
+Klik på overskrifterne herunder for at læse mere om de enkelte workshops.
+
+<!--
+<a href="#Fra data til handling" >Fra data til handling</a>
+<a href="#ESG i SMV" >ESG i SMV</a>
+<a href="#VSME i SMV" >VSME basis</a>
+<a href="#VSME i SMVII" >VSME udvidet</a>
+<a href="#DM – hva’fornoget?" >DM – hva’fornoget?</a>
+<a href="#Verdensmål" >Verdensmål</a>
+-->
+<style>
+.accordion {
+  border: none;
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: inherit;
+  margin: 1rem 0 0.5rem 0;
+}
+.accordion::after {
+  content: "▶";
+  transition: transform 0.3s;
+}
+.accordion[open]::after {
+  transform: rotate(90deg);
+}
+.accordion-content {
+  padding: 0.5rem 0;
+  background-color: transparent;
+  border-left: none;
+  margin-bottom: 1rem;
+}
+</style>
+
+<details class="accordion">
+  <summary>📘 Fra data til handling – sådan bruger I jeres CO₂-regnskab</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At give deltagerne praktiske kompetencer til at forstå, udarbejde og – vigtigst – bruge klimaregnskabet som et styringsværktøj i virksomheden.<br><br>
+    👥 <strong>Målgruppe:</strong> SMV’er med ingen, begrænset eller begyndende erfaring med CO₂-kortlægning<br><br>
+    🧠 <strong>Læringsmål:</strong>
+    <ul>
+      <li>Forstå forskellen på Scope 1, 2 og 3</li>
+      <li>Bruge Klimakompasset og/eller eget regneark som værktøj</li>
+      <li>Identificere og strukturere relevante data</li>
+      <li>Udlede konkrete reduktionsmuligheder og prioritere dem</li>
+      <li>Kommunikere CO₂-resultater internt og eksternt</li>
+    </ul>
+    📅 <strong>Varighed:</strong> 2 halve dage. Mulighed for tilkøb af opfølgende sparring
+  </div>
+</details>
+
+<details class="accordion">
+  <summary>📊 ESG i SMV – overblik, indsigt og handling</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At opbygge forståelse for ESG som styringsværktøj og gøre virksomheden i stand til at arbejde struktureret med væsentlighed, KPI’er og organisering.<br><br>
+    👥 <strong>Målgruppe:</strong> Virksomheder der skal i gang med eller styrke ESG-arbejdet<br><br>
+    🧠 <strong>Indhold:</strong>
+    <ul>
+      <li>Forstå ESG-rammens struktur og indhold</li>
+      <li>Betydningen af E, S og G</li>
+      <li>Identificere væsentlige ESG-emner for virksomheden</li>
+      <li>Opbygge datagrundlag og KPI’er</li>
+      <li>Lave plan for forankring i organisationen</li>
+    </ul>
+    📅 <strong>Varighed:</strong> 1 halvdags workshop. Mulighed for tilkøb af opfølgende sparring
+  </div>
+</details>
+
+<details class="accordion">
+  <summary>📋 VSME – ESG-rapportering for SMV’er</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At give SMV’er et udgangspunkt for ESG-rapportering baseret på VSME-standarden (basismodulet). Når workshoppen er slut har I et første udkast til en ESG-rapport.<br><br>
+    👥 <strong>Målgruppe:</strong> SMV’er, der vil i gang med bæredygtighedsrapportering, men ikke er CSRD-omfattet<br><br>
+    🧠 <strong>Indhold:</strong>
+    <ul>
+      <li>Introduktion til VSME-standarden</li>
+      <li>Kortlægning: Hvor er I allerede i gang – og hvor er der huller?</li>
+      <li>Udfyldning af skabelon med egne data og cases</li>
+      <li>Kommunikation af ESG-indsats</li>
+    </ul>
+    📅 <strong>Varighed:</strong> 2 halve dage. Mulighed for tilkøb af opfølgning og individuel rådgivning
+  </div>
+</details>
+
+<details class="accordion">
+  <summary>🧱 VSME – ESG-rapportering med fokus på det udvidede modul</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At give SMV’er kompetencer til at gennemføre en fuld ESG-rapportering i henhold til VSME-standarden – med forankring i strategi, ledelse og drift.<br><br>
+    👥 <strong>Målgruppe:</strong> Virksomheder, der har gennemført basis-modulet eller møder øgede krav fra kunder og myndigheder<br><br>
+    🧠 <strong>Læringsmål:</strong>
+    <ul>
+      <li>Rapportere efter VSME comprehensive module</li>
+      <li>Identificere og dokumentere ESG-risici og muligheder</li>
+      <li>Etablere governance-strukturer og ansvar for ESG</li>
+      <li>Indgå i og dokumentere interessentdialog</li>
+      <li>Opsætte og følge op på ESG-nøgletal</li>
+    </ul>
+    📅 <strong>Format:</strong> 2 dages forløb eller 3 × ½ dag. Mulighed for opfølgende sparring eller review
+  </div>
+</details>
+
+<details class="accordion">
+  <summary>🔍 DM hva’fornoget – Kom godt i gang med dobbeltvæsentlighedsanalyse</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At give deltagerne kompetencer til at forstå og arbejde med dobbeltvæsentlighed – som værktøj i ESG og strategi.<br><br>
+    👥 <strong>Målgruppe:</strong> SMV’er der vil have overblik over værdikæde og påvirkning<br><br>
+    🧠 <strong>Læringsmål:</strong>
+    <ul>
+      <li>Forstå dobbeltvæsentlighed i praksis</li>
+      <li>Skelne mellem påvirkning og finansielle risici</li>
+      <li>Kortlægge og prioritere ESG-temaer</li>
+      <li>Bruge analysen til rapportering og strategi</li>
+      <li>Styrke samarbejdet internt</li>
+    </ul>
+    📅 <strong>Varighed:</strong> 1 dag eller 2 halve dage. Mulighed for tilkøb af opfølgende sparring
+  </div>
+</details>
+
+<details class="accordion">
+  <summary>🌍 Verdensmålene i praksis – sådan arbejder I strategisk med FN's 17 mål</summary>
+  <div class="accordion-content">
+    🎯 <strong>Formål:</strong><br>
+    At gøre Verdensmålene konkrete og brugbare i virksomheden – og skabe ejerskab i organisationen.<br><br>
+    👥 <strong>Målgruppe:</strong> SMV’er og organisationer, der vil bruge Verdensmålene strategisk<br><br>
+    🧠 <strong>Indhold:</strong>
+    <ul>
+      <li>Introduktion til FN’s 17 Verdensmål</li>
+      <li>Kortlægning af virksomhedens påvirkninger</li>
+      <li>Match mellem værdikæde og relevante verdensmål</li>
+      <li>Prioritering og konkretisering af initiativer</li>
+      <li>Intern forankring og kommunikation</li>
+    </ul>
+    📅 <strong>Varighed:</strong> 4 timers workshop
+  </div>
+</details>
+
+👉 Er du i tvivl om, hvilket format der passer bedst til jeres behov? Workshops kan skræddersys til den enkelte virksomhed – både i indhold, niveau og varighed.
+<a href="#Kontakt">Kontakt os</a> for en uforpligtende snak om mulighederne.
+
+
+## <a id="Referencer" class="anchor-section"></a>Referencer
 <blockquote>
   <p>"Det har været en fornøjelse at have Mie ombord hos Scan Underlay  hvor hun stod i spidsen for  implementeringen af vores ESG- og miljøstrategi. Med en sjælden evne til hurtigt at gennemskue komplekse problemstillinger leverede hun præcise konkrete resultater.
 
@@ -136,7 +263,7 @@ Kort sagt: Mie leverer både høj faglighed, nærvær og nytænkning."
 
 ---
 
-## <a id="Kontakt"></a>Kontakt <img src="https://img.icons8.com/ios-filled/50/000000/chat--v1.png" alt="snak-boble ikon" width="30">
+## <a id="Kontakt" class="anchor-section"></a>Kontakt <img src="https://img.icons8.com/ios-filled/50/000000/chat--v1.png" alt="snak-boble ikon" width="30">
 Har du spørgsmål, idéer eller brug for en uforpligtende snak om bæredygtighed, cirkulær økonomi eller ESG?
 Skriv til mig, og lad os tage en dialog om mulighederne.
 
@@ -149,8 +276,12 @@ Skriv til mig, og lad os tage en dialog om mulighederne.
   <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin ikon" width="30">
   <a href="https://www.linkedin.com/in/dit-linkedin-profil/" target="_blank" style="color: #2e8b57; text-decoration: none;">LinkedIn</a>
 </div>
-Jeg glæder mig til at høre fra dig!
+
+<div style="display: flex; align-items: center; gap: 0.5rem;">
+  <img src="https://img.icons8.com/ios-filled/24/000000/phone.png" alt="Telefon ikon" style="vertical-align: middle;">
+  <a href="tel:+4551220459">+45 51 22 04 59</a>
+
 
 <div id="kontaktlinje">
-  &nbsp; ✉️ info@Sustira.dk | &nbsp; Sustira er en del af WelcomeSecurity | &nbsp; CVR DK36622652
+  &nbsp; ✉️ info@Sustira.dk | &nbsp; Sustira, en del af WelcomeSecurity | &nbsp; CVR DK36622652
 </div>

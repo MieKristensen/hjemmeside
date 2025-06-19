@@ -41,7 +41,7 @@ body {
 .topbar-title {
   font-size: 1.5rem;
   font-weight: bold;
-  color: white;
+  color: black;
 }
 
 .topbar-right {
@@ -50,8 +50,8 @@ body {
 }
 
 .topbar-link {
-  color: white;
-  font-weight: bold;
+  color: black;
+  font-weight: 
   text-decoration: none;
 }
 
@@ -69,9 +69,9 @@ body {
   left: 0;
   width: 100%;
   background: linear-gradient(to bottom,#2e7d32 0%, #388e3c 20%,#81c784 60%,#f1f8e9 100%);
-  color: white !important;
+  color: black !important;
   text-align: center;
-  padding: 1rem 1rem;
+  padding: 0.5rem 0.5rem;
   z-index: 999;
   border-bottom: none /*1px solid #1b5e20;*/
   box-shadow: 0 0px 0px rgba(0,0,0,0);
@@ -95,6 +95,11 @@ blockquote {
   background-color: #f1f8e9;
   color: #1b3d1b;
 }
+
+.anchor-section {
+  scroll-margin-top: 80px;
+}
+
 /* Footer */
 .site-footer {
   background-color: #c8e6c9 !important;
@@ -109,7 +114,7 @@ blockquote {
   left: 0;
   width: 100%;
   background-color: #2e7d32;
-  color: white;
+  color: black;
   text-align: center;
   padding: 0.5rem;
   font-size: 0.9rem;

@@ -6,7 +6,7 @@ layout: default
 
 <div class="topbar">
   <div class="topbar-left">
-   <img src="./assets/images/sustira cirkel.png" alt="SusTerra logo">
+   <img src="./assets/images/sustiracirkel.png" alt="SusTerra logo">
   </div>
   <!--
   <div class="topbar-center">

@@ -34,11 +34,6 @@ Jeg hjælper virksomheder med at gøre bæredygtighed konkret og meningsfuld. Mi
 Jeg tager udgangspunkt i FN’s Verdensmål som rettesnor for handling og prioritering. Ikke som tjeklister, men som et pejlemærke for ansvar, anstændighed og samarbejde – internt såvel som i værdikæden.
 
 For mig er bæredygtighed ikke et kommunikationsprojekt, men noget der skal virke i praksis. Jeg tror på løsninger, der tager afsæt i virkeligheden, og som bygger på viden, data og samarbejde.
-</p>
-
-    
-  </div>
-</div>
 
 ---
 

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+  <meta charset="utf-8">
+  <title>CLAUDE.md</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="icon" type="image/png" href="/WelcomeSecurity/images/favicon-32x32.webp">
+  <!-- Self-hosted font - faster, no external requests, better privacy -->
+  <link rel="preload" href="/WelcomeSecurity/assets/fonts/playfair-display.woff2" as="font" type="font/woff2" crossorigin>
+  <link href="/WelcomeSecurity/assets/css/style.css" rel="stylesheet">
+  
+  
+  <meta property="og:title" content="CLAUDE.md"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="http://localhost:4000/WelcomeSecurity/CLAUDE/"/>
+  <meta property="og:image" content="http://localhost:4000/WelcomeSecurity/images/og-default.png"/>
+  
+  <meta name="twitter:card" content="summary"/>
+  
+  
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Sustira",
+    "alternateName": "En del af WelcomeSecurity",
+    "description": "Danish application security consultancy helping developers and DevOps teams build secure software through hands-on collaboration.",
+    "url": "https://www.sustira.dk",
+    "logo": "https://www.sustira.dk/images/logo/logo.webp",
+    "image": "https://www.sustira.dk/images/og-default.png",
+    "telephone": "+45 5122 0459",
+    "email": "info@sustira.dk",
+    "priceRange": "Individuelle priser efter aftale",
+    "address": {
+      "@type": "PostalAddress",
+      "name": "Ferskvandscentret",
+      "streetAddress": "Vejlsøvej 51",
+      "postalCode": "8600",
+      "addressLocality": "Silkeborg",
+      "addressCountry": "DK"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 56.1538,
+      "longitude": 9.5607
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Denmark"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Mie Ljungberg Kristensen",
+      "jobTitle": "Senior ESG Consultant",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Sustira"
+      }
+    },
+    "serviceType": [
+      "ESG beregning og rapportering",
+      "LCA",
+      "SBTi",
+      "Cirkulær økonomi",
+      "Bæredygtighedsstrategi",
+      "Bæredygtighedsworkshops",
+    ],
+    "knowsAbout": [
+      "Bæredygtighedsstrategi",
+      "bæredygtighed",
+      "ESG",
+      "LCA",
+      "bæredygtighedsrapportering",
+      "SBTi",
+      "cirkulær økonomi",
+      "bæredygtig produktion"
+    ]
+  }
+  </script>
+
+</head>
+
+<body class='page page-basic'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/vi-tilbyder/">Jeg tilbyder</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/cases/">Cases</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/om-mig/">Om mig</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/holdet/">Holdet</a>
+    </li>
+    
+  </ul>
+</div>
+
+  <div id="wrapper" class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/WelcomeSecurity/"><img width="120px" height="32px" alt="Sustira - ESG og bæredygtighed for virksomheder" src="/WelcomeSecurity/images/logo/logo.webp" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/WelcomeSecurity/"><img width="32px" height="32px" alt="Sustira - ESG og bæredygtighed for virksomheder" src="/WelcomeSecurity/images/logo/logo%20mobile.webp" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  
+  <ul>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/vi-tilbyder/">Jeg tilbyder</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/cases/">Cases</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/om-mig/">Om mig</a>
+    </li>
+    
+    <li class="">
+      <a href="/WelcomeSecurity/holdet/">Holdet</a>
+    </li>
+    
+  </ul>
+</div>
+
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button" aria-label="Mobile Menu">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+    <main id="main-content">
+      <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12  order-2 order-md-1">
+            <div class="service service-single">
+                <h1 class="title">CLAUDE.md</h1>
+                <div class="content"><h1 id="claudemd">CLAUDE.md</h1>
+
+<p>This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.</p>
+
+<h2 id="project-overview">Project Overview</h2>
+
+<p>This is a <strong>dual-brand Jekyll static website</strong> serving both:</p>
+<ul>
+  <li><strong>WelcomeSecurity</strong>: Security consulting (Security Sidekick for developers)</li>
+  <li><strong>Sustira</strong>: ESG and sustainability consulting</li>
+</ul>
+
+<p>Both brands share the same codebase and are toggled through content and configuration. The site is built as static HTML and deployed to external hosting.</p>
+
+<h2 id="build-and-development-commands">Build and Development Commands</h2>
+
+<h3 id="local-development">Local Development</h3>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>bundle <span class="nb">install</span>                    <span class="c"># Install dependencies</span>
+bundle <span class="nb">exec </span>jekyll serve          <span class="c"># Run dev server at http://localhost:4000</span>
+bundle <span class="nb">exec </span>jekyll build          <span class="c"># Build to output/ directory</span>
+</code></pre></div></div>
+
+<h3 id="testing">Testing</h3>
+<ul>
+  <li>No automated tests configured</li>
+  <li>Manual testing via local server</li>
+  <li>GitHub Actions runs link checking and health checks</li>
+</ul>
+
+<h2 id="architecture">Architecture</h2>
+
+<h3 id="content-structure">Content Structure</h3>
+<ul>
+  <li><strong>Collections</strong> (<code class="language-plaintext highlighter-rouge">_services/</code>, <code class="language-plaintext highlighter-rouge">_team/</code>): Markdown files with frontmatter for services and team members</li>
+  <li><strong>Data files</strong> (<code class="language-plaintext highlighter-rouge">_data/</code>): Structured YAML data for menus, SEO, contact info</li>
+  <li><strong>Pages</strong>: Root-level <code class="language-plaintext highlighter-rouge">.md</code> files (index.md, about.md, contact.md, etc.)</li>
+</ul>
+
+<h3 id="key-configuration-files">Key Configuration Files</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_config.yml</code>: Main Jekyll config (site title, URL, collections, build settings)</li>
+  <li><code class="language-plaintext highlighter-rouge">_data/seo.yml</code>: Copyright text, meta descriptions, keywords</li>
+  <li><code class="language-plaintext highlighter-rouge">_data/menus.yml</code>: Main navigation and footer menu structure</li>
+  <li><code class="language-plaintext highlighter-rouge">_data/contact.yml</code>: Contact information</li>
+</ul>
+
+<h3 id="layout-hierarchy">Layout Hierarchy</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">_layouts/default.html</code>: Base template with Schema.org structured data, meta tags, header/footer</li>
+  <li>Specialized layouts: <code class="language-plaintext highlighter-rouge">home.html</code>, <code class="language-plaintext highlighter-rouge">service.html</code>, <code class="language-plaintext highlighter-rouge">team.html</code>, <code class="language-plaintext highlighter-rouge">page.html</code>, <code class="language-plaintext highlighter-rouge">contact.html</code></li>
+  <li>Includes: <code class="language-plaintext highlighter-rouge">_includes/header.html</code>, <code class="language-plaintext highlighter-rouge">_includes/footer.html</code>, <code class="language-plaintext highlighter-rouge">_includes/sub-footer.html</code></li>
+</ul>
+
+<h3 id="styling">Styling</h3>
+<ul>
+  <li>SASS files in <code class="language-plaintext highlighter-rouge">_sass/</code></li>
+  <li>Custom overrides in <code class="language-plaintext highlighter-rouge">_sass/components/_welcomesecurity-custom.scss</code></li>
+  <li>CSS is purged during deployment using PurgeCSS (preserves: ‘open’, ‘is-active’, ‘lock-scroll’, ‘header-shrunk’, ‘header-shrunk-body’)</li>
+</ul>
+
+<h3 id="javascript">JavaScript</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">assets/js/scripts.js</code>: Shrinking header on scroll, mobile menu</li>
+</ul>
+
+<h2 id="deployment">Deployment</h2>
+
+<h3 id="automated-deployment-github-actions">Automated Deployment (GitHub Actions)</h3>
+<ul>
+  <li><strong>Trigger</strong>: Push to <code class="language-plaintext highlighter-rouge">master</code> branch</li>
+  <li><strong>Process</strong>:
+    <ol>
+      <li>Build Jekyll site (<code class="language-plaintext highlighter-rouge">JEKYLL_ENV=production</code>)</li>
+      <li>Purge unused CSS</li>
+      <li>Upload to server via SCP (password auth)</li>
+      <li>Atomic swap using rename (htdocs backed up to <code class="language-plaintext highlighter-rouge">.backup_*</code>)</li>
+      <li>Rollback on failure</li>
+    </ol>
+  </li>
+  <li><strong>Config</strong>: Environment variables in GitHub (DEPLOY_HOST, DEPLOY_USER, DEPLOY_PORT, DEPLOY_PATH)</li>
+  <li><strong>Secret</strong>: DEPLOY_SSH_PASSWORD</li>
+</ul>
+
+<h3 id="build-output">Build Output</h3>
+<ul>
+  <li>Directory: <code class="language-plaintext highlighter-rouge">output/</code> (never edit manually)</li>
+  <li>Includes dotfiles (<code class="language-plaintext highlighter-rouge">.htaccess</code>, <code class="language-plaintext highlighter-rouge">.well-known/</code>)</li>
+</ul>
+
+<h2 id="health-monitoring">Health Monitoring</h2>
+
+<p>Automated daily checks (03:00 UTC):</p>
+<ul>
+  <li>Site availability and response time</li>
+  <li>SSL certificate expiry (warns &lt;30 days)</li>
+  <li>Broken links (internal and external)</li>
+</ul>
+
+<h2 id="important-patterns">Important Patterns</h2>
+
+<h3 id="dual-brand-content">Dual-Brand Content</h3>
+<p>Content references both WelcomeSecurity and Sustira. When editing:</p>
+<ul>
+  <li>Check <code class="language-plaintext highlighter-rouge">_data/seo.yml</code> for copyright text</li>
+  <li>Check <code class="language-plaintext highlighter-rouge">_layouts/default.html</code> for Schema.org structured data</li>
+  <li>Service descriptions live in <code class="language-plaintext highlighter-rouge">_services/</code></li>
+  <li>Team bios reference both brands in <code class="language-plaintext highlighter-rouge">_team/</code></li>
+</ul>
+
+<h3 id="url-structure">URL Structure</h3>
+<ul>
+  <li>Base URL: <code class="language-plaintext highlighter-rouge">https://www.sustira.dk</code> (configured in _config.yml)</li>
+  <li>Empty baseurl (deployed to site root)</li>
+  <li>Pretty permalinks (no .html extensions)</li>
+</ul>
+
+<h3 id="security-headers">Security Headers</h3>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">.htaccess</code>: Security headers configuration</li>
+  <li><code class="language-plaintext highlighter-rouge">.well-known/security.txt</code>: Security contact and policy</li>
+</ul>
+
+<h3 id="static-site-benefits">Static Site Benefits</h3>
+<ul>
+  <li>No WordPress, PHP, or database</li>
+  <li>Minimal attack surface</li>
+  <li>Fast, cacheable content</li>
+  <li>Version-controlled content</li>
+</ul>
+
+<h2 id="branch-strategy">Branch Strategy</h2>
+<ul>
+  <li><strong>master</strong>: Production branch (auto-deploys)</li>
+  <li><strong>gh-pages</strong>: Current working branch (based on git status provided)</li>
+</ul>
+
+<h2 id="common-tasks">Common Tasks</h2>
+
+<h3 id="adding-a-new-service">Adding a New Service</h3>
+<ol>
+  <li>Create markdown file in <code class="language-plaintext highlighter-rouge">_services/</code></li>
+  <li>Add frontmatter (title, description, weight for ordering)</li>
+  <li>Service will auto-appear on services page</li>
+</ol>
+
+<h3 id="updating-team-members">Updating Team Members</h3>
+<ol>
+  <li>Edit markdown in <code class="language-plaintext highlighter-rouge">_team/</code></li>
+  <li>Frontmatter includes: name, jobtitle, email, image, description</li>
+</ol>
+
+<h3 id="changing-navigation">Changing Navigation</h3>
+<ol>
+  <li>Edit <code class="language-plaintext highlighter-rouge">_data/menus.yml</code></li>
+  <li>Separate <code class="language-plaintext highlighter-rouge">main:</code> and <code class="language-plaintext highlighter-rouge">footer:</code> menu arrays</li>
+  <li>Weight determines ordering</li>
+</ol>
+
+<h3 id="updating-footer-copyright">Updating Footer Copyright</h3>
+<ol>
+  <li>Edit <code class="language-plaintext highlighter-rouge">_data/seo.yml</code></li>
+  <li>Look for <code class="language-plaintext highlighter-rouge">copyright_text:</code> field</li>
+</ol>
+
+<h3 id="schemaorg-structured-data">Schema.org Structured Data</h3>
+<ul>
+  <li>Located in <code class="language-plaintext highlighter-rouge">_layouts/default.html</code> (lines 23-80)</li>
+  <li>Type: ProfessionalService</li>
+  <li>Update when business info changes (address, phone, services)</li>
+</ul>
+</div>
+            </div>
+        </div>
+        
+    </div>
+</div>
+    </main>
+  </div>
+  <div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">Sustira - ESG og bæredygtighed for virksomheder</h2>
+          <ul>
+            
+            
+            <li class="">
+              <a href="/WelcomeSecurity/vi-tilbyder/">Jeg tilbyder</a>
+            </li>
+            
+            <li class="">
+              <a href="/WelcomeSecurity/cases/">Cases</a>
+            </li>
+            
+            <li class="">
+              <a href="/WelcomeSecurity/om-mig/">Om mig</a>
+            </li>
+            
+            <li class="">
+              <a href="/WelcomeSecurity/holdet/">Holdet</a>
+            </li>
+            
+            <li class="">
+              <a href="/WelcomeSecurity/privatlivspolitik/">Privatlivspolitik</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          
+            <div class="social">
+  
+    <a href="mailto:info@Sustira.dk" target="blank"><img src="/WelcomeSecurity/images/social/email.svg" title="Email" alt="Email" /></a>
+  
+    <a href="https://www.linkedin.com/in/mie-ljungberg-kristensen-3361366/" target="blank"><img src="/WelcomeSecurity/images/social/linkedin.svg" title="LinkedIn" alt="LinkedIn" /></a>
+  
+</div>
+
+          
+          
+          <div class="copyright">Copyright © 2026 Sustira - en del af WelcomeSecurity, CVR DK36622652, info@Sustira.dk. All rights reserved.</div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  <script src="/WelcomeSecurity/assets/js/scripts.js" defer></script>
+</body>
+</html>

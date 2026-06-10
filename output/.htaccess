@@ -1,0 +1,25 @@
+# Security Headers for WelcomeSecurity.net
+# Note: mod_rewrite is not allowed in .htaccess on JT-COM hosting
+# Non-www redirect is handled at server level
+
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "DENY"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+    Header set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=()"
+    Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self'; font-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:"
+</IfModule>
+
+# Cache Control - 1 year for static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css "access plus 1 year"
+    ExpiresByType application/javascript "access plus 1 year"
+    ExpiresByType image/svg+xml "access plus 1 year"
+    ExpiresByType image/webp "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType font/woff2 "access plus 1 year"
+    ExpiresByType application/font-woff2 "access plus 1 year"
+</IfModule>

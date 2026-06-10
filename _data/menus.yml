@@ -1,0 +1,31 @@
+main:
+  - name: "Jeg tilbyder"
+    url: "/vi-tilbyder/"
+    weight: 2
+  - name: "Cases"
+    url: "/cases/"
+    weight: 3
+  - name: "Holdet"
+    url: "/holdet/"
+    weight: 5
+  - name: "Om mig"
+    url: "/om-mig/"
+    weight: 4
+
+footer:
+  - name: "Jeg tilbyder"
+    url: "/vi-tilbyder/"
+    weight: 2
+  - name: "Cases"
+    url: "/cases/"
+    weight: 3
+  - name: "Holdet"
+    url: "/holdet/"
+    weight: 5
+  - name: "Om mig"
+    url: "/om-mig/"
+    weight: 4
+  - name: "Privatlivspolitik"
+    url: "/privatlivspolitik/"
+    weight: 6
+    

@@ -1,1 +1,5 @@
-.\_site
+_site
+output/
+.DS_Store
+*.xcf
+presentations/

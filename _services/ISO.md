@@ -8,7 +8,7 @@ description: |
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
-
+Intro_image: "images/illustrations/Bæredygtighed værdi.webp"
 permalink: "/vi-tilbyder/ISO/"
 
 ---

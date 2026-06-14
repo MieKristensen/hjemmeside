@@ -15,4 +15,4 @@ Jeg har en ressourcekoordinatoruddannelse, en Mini MBA i Sustainability & ESG og
 
 Jeg er aktiv i miljø- og cirkulære fagfællesskaber og netværk – blandt andet som bestyrelsesmedlem i Sustainable Change Makers (vest for Storebælt), i Dansk Erhvervs miljø- og cirkulærøkonomi-netværk, Dansk Standards bæredygtighedsudvalg og i Silkeborg Business Green.
 
- **[Kontakt os]({{ '/kontakt/' | relative_url }})**.
+ **[Kontakt mig]({{ '/kontakt/' | relative_url }})**.

@@ -11,6 +11,34 @@ intro_image_hide_on_mobile: false
 Her finder du eksempler på organisationer og teams, hvor Mie Ljungberg Kristensen med stor ekspertise har formidlet, rådgivet og bidraget til bæredygtig udvikling.
 
 ---
+### S.T.O.P. A/S
+
+S.T.O.P. A/S er en socialpædagogisk virksomhed, der yder støtte til borgere med særlige behov. Virksomhedens arbejde bygger på faglighed, relationer og et ønske om at skabe positive forandringer for de mennesker, de arbejder med.
+
+**Det arbejdede vi med**
+
+S.T.O.P. A/S ønskede at udarbejde sin første ESG-rapport og få samlet virksomhedens arbejde med miljø, sociale forhold og god virksomhedsadfærd i et format, der giver mening for en mindre specialiseret virksomhed.
+
+- Kortlægning af virksomhedens ESG-forhold med udgangspunkt i VSME-standarden
+- Indsamling og strukturering af data om energi, transport, medarbejdere, sygefravær, uddannelse og governance
+- Beskrivelse af virksomhedens sociale indsats, arbejdsmiljø og medarbejderforhold
+- Identifikation af relevante ESG-emner for en socialpædagogisk virksomhed
+- Udarbejdelse af virksomhedens første ESG-rapport
+
+**Værdien for S.T.O.P.**
+
+S.T.O.P. fik en ESG-rapport, der er tilpasset virksomhedens størrelse, ressourcer og virkelighed.
+
+Rapporten skabte et samlet overblik over virksomhedens eksisterende indsatser og dokumenterede områder, som tidligere ikke havde været beskrevet systematisk.
+Rapporten anvendes i dag som dokumentation i dialogen med kommuner og andre interessenter og giver virksomheden et konkret grundlag for det videre arbejde med ESG.
+
+**Reference**
+
+*"Mie hjalp S.T.O.P. A/S med vores første ESG-rapport, og processen var tryg og overskuelig fra start til slut. Hun forstod hurtigt, at vi er en specialiseret SMV, hvor ESG skal være proportionalt og give reel værdi – ikke et tungt compliance-projekt. Rapporten bruger vi i dag både i dialogen med kommuner og som led i professionaliseringen af virksomheden. Mies største styrke er, at hun oversætter et komplekst område til noget konkret og brugbart, og at dialogen hele vejen var ærlig og ligetil. Jeg anbefaler hende gerne til andre virksomheder, der skal i gang med ESG."*
+
+Michael Neigaard, direktør, S.T.O.P. A/S
+
+---
 ### Scan Underlay: Fra ambition til implementeret ESG- og miljøstrategi
 Underlay udvikler og producerer danske, trinlydsdæmpende underlag af upcycled gummi fra brugte bildæk med dokumenteret miljøprofil via EPD. De ønskede at styrke deres ESG- og miljøindsats og få en klar, praktisk struktur for arbejdet. 
 Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategien og arbejdede med at gøre komplekse krav og data
@@ -28,7 +56,9 @@ Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategi
 
 **Reference**
 
-“Det har været en fornøjelse at have Mie ombord hos Scan Underlay, hvor hun stod i spidsen for implementeringen af vores ESG- og miljøstrategi. Med en sjælden evne til hurtigt at gennemskue komplekse problemstillinger leverede hun præcise konkrete resultater. Som sparringspartner bidrog Mie med værdifuld indsigt, konstruktiv feedback og håndfaste anbefalinger inden for alt fra miljørapportering til optimering af bæredygtighedstiltag. Hendes analytiske tankegang, kombineret med en meget konkret og effektiv arbejdsstil, sikrede, at vi nåede hurtigere i mål med vores ESG, end vi havde troet muligt. Mie skaber desuden et tillidsfuldt samarbejdsklima, hvor alle føler sig motiverede og klædt på til at bidrage. Jeg kan på det varmeste anbefale hende til enhver organisation, der ønsker en dedikeret, hurtigopfattende og resultatorienteret leder inden for ESG og miljø.”
+*“Det har været en fornøjelse at have Mie ombord hos Scan Underlay, hvor hun stod i spidsen for implementeringen af vores ESG- og miljøstrategi. Med en sjælden evne til hurtigt at gennemskue komplekse problemstillinger leverede hun præcise konkrete resultater. Som sparringspartner bidrog Mie med værdifuld indsigt, konstruktiv feedback og håndfaste anbefalinger inden for alt fra miljørapportering til optimering af bæredygtighedstiltag.*
+
+*Hendes analytiske tankegang, kombineret med en meget konkret og effektiv arbejdsstil, sikrede, at vi nåede hurtigere i mål med vores ESG, end vi havde troet muligt. Mie skaber desuden et tillidsfuldt samarbejdsklima, hvor alle føler sig motiverede og klædt på til at bidrage. Jeg kan på det varmeste anbefale hende til enhver organisation, der ønsker en dedikeret, hurtigopfattende og resultatorienteret leder inden for ESG og miljø.”*
 
 ---
 
@@ -57,7 +87,9 @@ Min rolle var at sikre fremdrift og kvalitet gennem hele processen: fra at skabe
 
 **Reference**
 
-"Jeg kan varmt anbefale Mie Ljungberg Kristensen. Hun er en engageret og dygtig uddannelseskonsulent, der formår at møde deltagerne i øjenhøjde, forstå deres behov og støtte dem i deres faglige udvikling. Jeg har haft fornøjelsen af at arbejde sammen med Mie i forbindelse med kompetenceudvikling hos Engineer the Future. Her har hun spillet en central rolle i et udviklingsforløb, der veksler mellem teoretiske workshops og afprøvning i deltagernes egen praksis – herunder udvikling af deres eget undervisningsmateriale. Mie har med stor indsigt og erfaring støttet deltagerne i alle faser af processen og trukket på sin solide baggrund inden for undervisning og formidling. Samtidig er hun en innovativ og stærk sparringspartner i udviklingen af nye koncepter og undervisningsmaterialer. Kort sagt: Mie leverer både høj faglighed, nærvær og nytænkning."
+*"Jeg kan varmt anbefale Mie Ljungberg Kristensen. Hun er en engageret og dygtig uddannelseskonsulent, der formår at møde deltagerne i øjenhøjde, forstå deres behov og støtte dem i deres faglige udvikling. Jeg har haft fornøjelsen af at arbejde sammen med Mie i forbindelse med kompetenceudvikling hos Engineer the Future. Her har hun spillet en central rolle i et udviklingsforløb, der veksler mellem teoretiske workshops og afprøvning i deltagernes egen praksis – herunder udvikling af deres eget undervisningsmateriale.*
+
+*Mie har med stor indsigt og erfaring støttet deltagerne i alle faser af processen og trukket på sin solide baggrund inden for undervisning og formidling. Samtidig er hun en innovativ og stærk sparringspartner i udviklingen af nye koncepter og undervisningsmaterialer. Kort sagt: Mie leverer både høj faglighed, nærvær og nytænkning."*
 
 Vil I være de næste?
 

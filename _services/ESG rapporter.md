@@ -11,7 +11,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
 intro_image: "/images/illustrations/Tretrinsraketten.webp"
-permalink: "/vi-tilbyder/ESG/"
+permalink: "/jeg-tilbyder/ESG/"
 ---
 Få overblik og dokumentation for jeres bæredygtighedsarbejde
 

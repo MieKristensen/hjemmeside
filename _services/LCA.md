@@ -3,10 +3,10 @@ title: "Klimaregnskab og Produktaftryk"
 weight: 2
 description: |
   ##### Beregninger der gør beslutninger lettere.
-  LCA (livscyklusvurdering) giver jer et faktabaseret overblik over, hvor et produkts miljøpåvirkning faktisk opstår – fra råvarer og produktion til transport, brug og end-of-life. Det gør det muligt at styre efter det, der betyder noget, frem for det, der ser godt ud på overfladen.
+  LCA (livscyklusvurdering) giver jer et faktabaseret overblik over, hvor et produkts miljøpåvirkning faktisk opstår fra råvarer og produktion til transport, brug og end-of-life. Det gør det muligt at styre efter det, der betyder noget, frem for det, der ser godt ud på overfladen.
 banner_image: "/images/illustrations/banner.webp"
-intro_image: "/images/illustrations/Cirkulær forretning.webp"
-permalink: "/vi-tilbyder/Produktaftryk/"
+intro_image: "/images/illustrations/Livscyklus.webp"
+permalink: "/jeg-tilbyder/Klimaregnskab-og-produktaftryk/"
 ---
 Gode beslutninger kræver et solidt datagrundlag.
 

@@ -1,6 +1,6 @@
 main:
   - name: "Jeg tilbyder"
-    url: "/vi-tilbyder/"
+    url: "/jeg-tilbyder/"
     weight: 2
   - name: "Cases"
     url: "/cases/"
@@ -14,7 +14,7 @@ main:
 
 footer:
   - name: "Jeg tilbyder"
-    url: "/vi-tilbyder/"
+    url: "/jeg-tilbyder/"
     weight: 2
   - name: "Cases"
     url: "/cases/"

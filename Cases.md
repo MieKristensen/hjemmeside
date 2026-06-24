@@ -27,19 +27,41 @@ S.T.O.P. A/S ønskede at udarbejde sin første ESG-rapport og få samlet virksom
 
 **Værdien for S.T.O.P.**
 
-S.T.O.P. fik en ESG-rapport, der er tilpasset virksomhedens størrelse, ressourcer og virkelighed.
-
-Rapporten skabte et samlet overblik over virksomhedens eksisterende indsatser og dokumenterede områder, som tidligere ikke havde været beskrevet systematisk.
-Rapporten anvendes i dag som dokumentation i dialogen med kommuner og andre interessenter og giver virksomheden et konkret grundlag for det videre arbejde med ESG.
+- En ESG-rapport, der er tilpasset virksomhedens størrelse, ressourcer og virkelighed.
+- Et samlet overblik over virksomhedens eksisterende indsatser og dokumenterede områder, som tidligere ikke havde været beskrevet systematisk.
+- Dokumentation til dialogen med kommuner og andre interessenter og giver virksomheden et konkret grundlag for det videre arbejde med ESG.
 
 **Reference**
 
-*"Mie hjalp S.T.O.P. A/S med vores første ESG-rapport, og processen var tryg og overskuelig fra start til slut. Hun forstod hurtigt, at vi er en specialiseret SMV, hvor ESG skal være proportionalt og give reel værdi – ikke et tungt compliance-projekt. Rapporten bruger vi i dag både i dialogen med kommuner og som led i professionaliseringen af virksomheden. Mies største styrke er, at hun oversætter et komplekst område til noget konkret og brugbart, og at dialogen hele vejen var ærlig og ligetil. Jeg anbefaler hende gerne til andre virksomheder, der skal i gang med ESG."*
+*"Mie hjalp S.T.O.P. A/S med vores første ESG-rapport, og processen var tryg og overskuelig fra start til slut. Hun forstod hurtigt, at vi er en specialiseret SMV, hvor ESG skal være proportionalt og give reel værdi – ikke et tungt compliance-projekt. Rapporten bruger vi i dag både i dialogen med kommuner og som led i professionaliseringen af virksomheden.*
+
+*Mies største styrke er, at hun oversætter et komplekst område til noget konkret og brugbart, og at dialogen hele vejen var ærlig og ligetil. Jeg anbefaler hende gerne til andre virksomheder, der skal i gang med ESG."*
 
 Michael Neigaard, direktør, S.T.O.P. A/S
 
 ---
-### Scan Underlay: Fra ambition til implementeret ESG- og miljøstrategi
+### TS Computer
+
+TS Computer er en danskejet IT-virksomhed med mere end 20 års erfaring inden for IT-drift, support, hosting og skræddersyede IT-løsninger. Virksomheden servicerer kunder på tværs af brancher og fungerer for mange som en ekstern IT-afdeling med fokus på driftssikkerhed, nærværende service og langsigtede løsninger.
+
+**Det arbejdede vi med**
+
+- Skabe overblik over virksomhedens eksisterende bæredygtighedsindsatser og undersøge mulighederne inden for ESG, cirkulær økonomi og bæredygtig IT i dialog med virksomheden.
+- Identifikation af virksomhedens styrker
+- Vurdering af udviklingsmuligheder 
+- Refleksioner om, hvordan cirkulære forretningsmodeller kan understøtte både forretning og bæredygtighed.
+
+**Værdien for TS computer**
+
+- Et samlet overblik over de eksisterende indsatser og nye perspektiver på, hvordan bæredygtighed kan integreres endnu tydeligere i forretningen.
+- Inspiration til den videre udvikling af virksomhedens løsninger og positionering i markedet gennem arbejde med cirkulær tænkning og bæredygtig IT.
+
+**Reference**
+
+*"Vi har i forbindelse med vores arbejde med ESG og bæredygtig IT haft fornøjelsen af at samarbejde med Sustira. Mie hjalp os med at skabe overblik over vores nuværende indsats, identificere vores styrker og pege på områder, hvor vi kunne udvikle os yderligere. Samarbejdet var både inspirerende og lærerigt og gav os nye perspektiver på cirkulær tænkning, særligt i relation til vores egen branche."*
+
+---
+### Scan Underlay
 Underlay udvikler og producerer danske, trinlydsdæmpende underlag af upcycled gummi fra brugte bildæk med dokumenteret miljøprofil via EPD. De ønskede at styrke deres ESG- og miljøindsats og få en klar, praktisk struktur for arbejdet. 
 Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategien og arbejdede med at gøre komplekse krav og data
 
@@ -61,9 +83,43 @@ Jeg blev tilknyttet som ansvarlig for implementeringen af ESG- og miljøstrategi
 *Hendes analytiske tankegang, kombineret med en meget konkret og effektiv arbejdsstil, sikrede, at vi nåede hurtigere i mål med vores ESG, end vi havde troet muligt. Mie skaber desuden et tillidsfuldt samarbejdsklima, hvor alle føler sig motiverede og klædt på til at bidrage. Jeg kan på det varmeste anbefale hende til enhver organisation, der ønsker en dedikeret, hurtigopfattende og resultatorienteret leder inden for ESG og miljø.”*
 
 ---
+### Madselskabet
 
+Madselskabet er en fødevarevirksomhed med fokus på kvalitetsråvarer, ansvarlig drift og bæredygtige valg i hverdagen. Virksomheden arbejder løbende med blandt andet råvarevalg, madspild, emballage og lokale leverandører og ønskede at få samlet og dokumenteret disse indsatser i en ESG-rapport.
 
-### Engineer the Future: Kompetenceudvikling der virker i praksis
+**Det arbejdede vi med**
+
+- Samling og strukturering af virksomhedens arbejde med bæredygtighed i en ESG-rapport.
+- Kortlægning af virksomhedens miljømæssige, sociale og ledelsesmæssige forhold, herunder energi, affald, råvarer, emballage, madspild, arbejdsforhold samt virksomhedens værdier og principper.
+- Overblik over virksomhedens nuværende indsatser og etablere et grundlag for den videre udvikling og dialog med kunder og andre interessenter.
+- Indsamling og strukturering af data så rapporten kunne beskrive virksomhedens arbejde på en måde, der afspejlede den daglige drift og de værdier, virksomheden bygger på.
+
+**Værdien for Madselskabet**
+
+- En ESG-rapport, der dokumenterer virksomhedens bæredygtighedsarbejde og samler de mange indsatser, som gennem årene har været en naturlig del af virksomheden.
+- Bedre overblik over virksomhedens styrker
+- Refleksioner om, hvilke områder der er vigtigst at fokusere på fremadrettet.
+- Dokumentation til kommunikation med kunder og andre interessenter
+- Synliggørelse af virksomhedens arbejde med bæredygtighed på deres hjemmeside og øvrige kanaler.
+
+**Reference**
+
+*"Efter gennemgangen af opgaven, hvordan rapporten skulle udarbejdes, og hvilke oplysninger der skulle bruges, var det forholdsvis nemt og overskueligt at finde de relevante oplysninger frem.*
+
+*Mie fik spurgt godt ind til forretningen og har fået den beskrevet godt i rapporten – short, sweet and to the point.*
+
+*Samarbejdet fungerede rigtig godt. Vi startede med en god indledende telefonsamtale efterfulgt af et møde, hvor krav og ønsker til rapporten blev gennemgået. Herefter fungerede den løbende dialog og korrespondance rigtig fint.*
+
+*Mie sørgede for at minimere mine opgaver og skabe overblik, så min andel af arbejdet blev både nem og mindre tidskrævende, end jeg havde forventet.*
+
+*Ud fra den aftalte økonomiske ramme er jeg meget tilfreds med resultatet. Rapporten dokumenterer, hvordan vi har arbejdet med bæredygtighed gennem virksomhedens levetid, og jeg forventer, at den kan være med til at synliggøre vores indsatser over for kunder og andre interessenter.*
+
+*Mie har gjort ESG-arbejdet mere overskueligt og langt lettere at gå til. Samtidig var det en stor fordel, hvor mange oplysninger hun selv kunne fremskaffe, så jeg ikke skulle bruge unødigt mange timer på opgaven.*
+
+*Jeg vil gerne anbefale Mie til andre virksomheder, der ønsker at arbejde med ESG på en praktisk og overskuelig måde."*
+
+---
+### Engineer the Future
 Jeg har været tilknyttet Engineer the Future – Danmarks teknologiske alliance – som arbejder for at gøre teknologi og science tilgængeligt og relevant for børn og unge gennem metoder og indsatser, der styrker læring, motivation og handlekraft.
 
 Jeg var en del af et udviklingsforløb målrettet kompetenceudvikling. Forløbet var bygget op, så deltagerne vekslede mellem teoretiske workshops og afprøvning i egen praksis – med et tydeligt mål om at omsætte ny viden til konkrete greb og materialer, der kunne bruges med det samme.
@@ -78,7 +134,7 @@ Min rolle var at sikre fremdrift og kvalitet gennem hele processen: fra at skabe
 - Idéudvikling og medskabelse af nye koncepter og undervisningsmaterialer
 
 
-**Værdien**
+**Værdien for Engineer the Future**
 
 - Deltagerne blev mødt i øjenhøjde og støttet i deres faglige udvikling
 - Et forløb med høj faglighed og nærvær, hvor teori blev til handling
@@ -91,6 +147,8 @@ Min rolle var at sikre fremdrift og kvalitet gennem hele processen: fra at skabe
 
 *Mie har med stor indsigt og erfaring støttet deltagerne i alle faser af processen og trukket på sin solide baggrund inden for undervisning og formidling. Samtidig er hun en innovativ og stærk sparringspartner i udviklingen af nye koncepter og undervisningsmaterialer. Kort sagt: Mie leverer både høj faglighed, nærvær og nytænkning."*
 
+---
 Vil I være de næste?
+
 
 **[Så kontakt mig]({{ '/kontakt/' | relative_url }}){: .button .button-primary}**

@@ -2,12 +2,13 @@
 title: "Cirkulær økonomi"
 weight: 3
 description: |
+  ##### Fasthold værdi og spar ressourcer
   Cirkulær økonomi handler ikke kun om genbrug, det handler om at fastholde værdi og bruge færre ressourcer. Jeg hjælper jer med at omsætte idéer til konkrete løsninger: længere levetid,materialeskift, take-back, reparation, leasing eller service. I får en plan, der passer til jeres forretning og kapacitet. Resultatet er ofte lavere omkostninger, mere robusthed og nye indtjeningsmuligheder.
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 banner_image: "/images/illustrations/banner.webp"
 intro_image:
-permalink: "/vi-tilbyder/Cirkulær økonomi/"
+permalink: "/jeg-tilbyder/Cirkulær-økonomi/"
 ---
 Cirkulær økonomi der styrker forretningen
 

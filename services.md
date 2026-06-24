@@ -4,7 +4,7 @@ layout: services
 description: Sustira tilbyder ESG og LCA beregninger så i kan udvikle jer i en bæredygtig retning
 banner_image: "/images/illustrations/Services.png"
 header: Fra data til handling
-permalink: "/vi-tilbyder/"
+permalink: "/jeg-tilbyder/"
 ---
 ### ESG, der kan bruges – og som styrker banken, kunderne og organisationen
 

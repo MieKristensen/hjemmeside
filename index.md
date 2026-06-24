@@ -5,11 +5,13 @@ description: "Sustira hjælper små og mellemstore virksomheder med at skabe en 
 intro_image: "images/illustrations/Store forandringer.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
+banner_image: "images/illustrations/banner.webp"
 show_call_box: false
 header: Sustira - Jeres hjælp til bæredygtig udvikling
 ---
 ## Bæredygtighed der virker i praksis
 Jeg hjælper små og mellemstore virksomheder med at skabe overblik, prioritere de rigtige indsatser og omsætte bæredygtighed til konkrete forbedringer for både forretning og klima.
+
 Sustira er sammensat af det latinske ord sustinere – at understøtte, bære og fastholde og era – tidsalder. Visionen er at bidrage til en tidsalder, hvor virksomheder skaber værdi for både forretning, mennesker og klima. Det sker gennem konkrete forbedringer, datadrevne beslutninger og handling i praksis
 
 Jeg tror ikke på rapporter for rapporternes skyld. Jeg tror på at måle det, der betyder noget og gøre det, der virker.
@@ -33,4 +35,5 @@ Hvis det lyder bekendt, så lad os tage en snak.
 
 **[Så kontakt mig, så tager vi en snak](./kontakt/){: .button .button-primary}**
 
+---
 Se hvordan andre er blevet hjulpet på vej til en grønnere fremtid [Cases](./cases/) 

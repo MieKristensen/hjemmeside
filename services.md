@@ -26,4 +26,7 @@ Jeg hjælper jer med at omsætte cirkulære ambitioner til løsninger, der funge
 
 Jeg bygger ikke afhængighed, jeg bygger kapacitet. I får klare roller, simple metoder og en proces, der gør det muligt at omsætte data til beslutninger i hverdagen. Værdien er ejerskab, momentum og en bæredygtighedsindsats, der bliver integreret i kerneforretningen.
 
+### Få styr på emballagen, ansvaret og dokumentationen.
+Hos Sustira hjælper jeg jer med at kortlægge emballagerne, afklare roller og samle den nødvendige dokumentation. I får et konkret overblik over opgaver, ansvar og næste skridt, som kan bruges i indkøb, produktion og dialogen med leverandører.
+
 Læs mere her

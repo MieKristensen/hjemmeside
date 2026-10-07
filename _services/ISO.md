@@ -2,8 +2,8 @@
 title: "Ledelsessystemerne ISO 14001 & ISO 45001"
 weight: 4
 description: |
-  ##### Ledelsessystemer der virker i praksis
-  ISO 14001 og ISO 45001 handler ikke om dokumentation og procedurer. De handler om at skabe struktur, ansvar og løbende forbedringer, så virksomheden arbejder systematisk med miljø, arbejdsmiljø og risici. 
+  ##### Ledelsessystemer der virker i praksis. 
+  ISO 14001 og ISO 45001 handler ikke om dokumentation og procedurer. De handler om at skabe struktur, ansvar og løbende forbedringer, så virksomheden arbejder systematisk med miljø, arbejdsmiljø og risici. Et velfungerende ledelsessystem gør det lettere at omsætte ambitioner til handling, følge op på resultater og sikre, at forbedringer bliver en del af den daglige drift.
 
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
@@ -12,9 +12,7 @@ Intro_image: "images/illustrations/Bæredygtighed værdi.webp"
 permalink: "/jeg-tilbyder/ISO/"
 
 ---
-Ledelsessystemer der virker i praksis
 
-ISO 14001 og ISO 45001 handler ikke om dokumentation og procedurer. De handler om at skabe struktur, ansvar og løbende forbedringer, så virksomheden arbejder systematisk med miljø, arbejdsmiljø og risici. Et velfungerende ledelsessystem gør det lettere at omsætte ambitioner til handling, følge op på resultater og sikre, at forbedringer bliver en del af den daglige drift.
 
 ISO 14001 giver en struktureret ramme for arbejdet med miljøforhold, ressourceforbrug og virksomhedens påvirkning af omgivelserne.
 

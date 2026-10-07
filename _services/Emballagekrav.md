@@ -2,12 +2,10 @@
 title: "Emballagekrav"
 weight: 5
 description: |
-  ##### Få styr på emballagen, ansvaret og dokumentationen.
-  
-  Køber, importerer, fremstiller eller sælger I emballage eller emballerede produkter? Så kan I være omfattet af både producentansvar og EU’s emballageforordning, PPWR.
+  ##### Køber, importerer, fremstiller eller sælger I emballage eller emballerede produkter?
+  Så kan I være omfattet af både producentansvar og EU’s emballageforordning, PPWR.
   Producentansvaret handler om registrering, indberetning og finansiering af emballageaffald. PPWR stiller blandt andet krav til emballagens egenskaber, dokumentation og sporbarhed. Jeres opgaver afhænger af emballagen og virksomhedens rolle.
-  
-  Hos Sustira hjælper jeg jer med at kortlægge emballagerne, afklare roller og samle den nødvendige dokumentation. I får et konkret overblik over opgaver, ansvar og næste skridt, som kan bruges i indkøb, produktion og dialogen med leverandører.
+ 
   
 banner_image: "/images/illustrations/producentansvar.webp"
 intro_image: "/images/illustrations/Fra overblik til handling.webp"
